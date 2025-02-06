@@ -1,5 +1,5 @@
 # TicTacToe 
-This is a winter themed tic tac toe game with different game modes and difficulty levels. Play against a friend or play solo against a computer player to sharpen your tic tac toe skills!
+This is a winter themed tic tac toe game with different game modes and difficulty levels written in java. Play against a friend or play solo against a computer player to sharpen your tic tac toe skills!
 
 Features:
  1. Easy mode (regular 3x3 tic tac toe)
